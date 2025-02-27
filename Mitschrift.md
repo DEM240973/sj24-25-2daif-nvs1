@@ -8,9 +8,12 @@
 
 2. Data Link 
     Switch nicht routing 
-    ARP Address Ryolution Protokoll
+    ARP Address Resolution Protokoll
     Ethernet Frame 
 
 
-
-
+3. Network 
+    - IP
+    - BGP
+    - OSPF
+    - IPV6s
